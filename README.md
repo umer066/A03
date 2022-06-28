@@ -4,7 +4,7 @@ Glossary to include these terms in a bulleted list.
 
 Bold each of the Glossary words as you use them.  Bold ONLY the glossary word.
 
-**Branch
+Branch
 Clone
 Commit
 Fetch
@@ -15,4 +15,4 @@ Merge Conflict
 Push
 Pull
 Remote
-Repository**
+Repository
